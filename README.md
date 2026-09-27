@@ -94,16 +94,20 @@ graph LR;
 針對吊車公司的營運模式，資料庫設計的核心在於處理「客戶叫車」、「車輛與司機調度」以及「後續帳務」這三個主要環節。使用 PostgreSQL，我們可以利用其關聯式特性，確保資料的一致性與完整性。
 
 <img src="https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTlqDcYycMFAZ7X1EsGHQyQ6D4cGE0ojgw8Hfc-hl6CgUG0PndNgJoZ8dw9xiZQqe27WDEgJ2RSR5bMZ_M" width="50%">
-<br>施工現場吊車作業. 來源： Andrey Atanov / Getty Images<br>
+
+施工現場吊車作業. 來源： Andrey Atanov / Getty Images<br>
 
 <img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRZne9teqeFwzLsG8pxErbOS8lNPcteNPKeTOo_mIWfKDab-Rq55YkqDyLDiNLU7TUZYtp2pFmedqZKa7M" width="50%">
-<br>資料塑模概念. 來源： zuamir / Getty Images<br>
+
+資料塑模概念. 來源： zuamir / Getty Images<br>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAGF2H3pewCAubfKWonhpe3-8_qebaVql0IBYBiPaP_lKwLFESboswzA&s=10" width="50%">
-<br>派車系統 ER 圖概念. 來源： Latest Projects on Java, JSP, Python<br>
+
+派車系統 ER 圖概念. 來源： Latest Projects on Java, JSP, Python<br>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkudghynkYCZMhaI_wHD1kACzdlICn-Jh8OqBZfFqsgJmZgHSHFU8rsqE&s=10" width="50%">
-<br>ostgreSQL 架構. 來源： Medium / Architecture of PostgreSQL DB. Basic architecture of Database<br>
+
+PostgreSQL 架構. 來源： Medium / Architecture of PostgreSQL DB. Basic architecture of Database<br>
 
 5.1. 核心資料表 (Schema) 規劃
 
